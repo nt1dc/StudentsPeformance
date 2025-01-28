@@ -1,0 +1,29 @@
+{
+    "gender": {
+        "female": 0,
+        "male": 1
+    },
+    "race/ethnicity": {
+        "group B": 0,
+        "group C": 1,
+        "group A": 2,
+        "group D": 3,
+        "group E": 4
+    },
+    "parental level of education": {
+        "bachelor's degree": 0,
+        "some college": 1,
+        "master's degree": 2,
+        "associate's degree": 3,
+        "high school": 4,
+        "some high school": 5
+    },
+    "lunch": {
+        "standard": 0,
+        "free/reduced": 1
+    },
+    "test preparation course": {
+        "none": 0,
+        "completed": 1
+    }
+}
